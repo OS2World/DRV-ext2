@@ -1,0 +1,14 @@
+/fsh32_addshare.asm/1.1/Wed May  9 17:51:18 2001//
+/fsh32_devioctl.asm/1.1/Wed May  9 17:51:18 2001//
+/fsh32_dovolio.asm/1.1/Wed May  9 17:51:18 2001//
+/fsh32_findduphvpb.asm/1.1/Wed May  9 17:51:18 2001//
+/fsh32_forcenoswap.asm/1.1/Wed May  9 17:51:18 2001//
+/fsh32_getvolparm.asm/1.1/Wed May  9 17:51:20 2001//
+/fsh32_ioboost.asm/1.1/Wed May  9 17:51:20 2001//
+/fsh32_qsysinfo.asm/1.1/Wed May  9 17:51:20 2001//
+/fsh32_removeshare.asm/1.1/Wed May  9 17:51:20 2001//
+/fsh32_segalloc.asm/1.1/Wed May  9 17:49:48 2001//
+/fsh32_setvolume.asm/1.1/Wed May  9 17:49:48 2001//
+/makefile/1.1/Wed May  9 17:49:48 2001//
+/readme.txt/1.1/Wed May  9 17:49:48 2001//
+D
